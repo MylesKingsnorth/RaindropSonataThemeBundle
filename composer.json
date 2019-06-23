@@ -1,5 +1,5 @@
 {
-    "name": "raindrop/sonata-theme-bundle",
+    "name": "myleskingsnorth/sonata-theme-bundle",
     "type": "symfony-bundle",
     "description": "Symfony 2 SonataAdminBundle Themes",
     "keywords": ["theme", "sonata", "admin"],
@@ -13,8 +13,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "php": ">=5.3.3",
-        "sonata-project/admin-bundle": ">=2.3"
+        "php": ">=5.3.3"
     },
     "require-dev": {
     },
